@@ -1,6 +1,6 @@
-- 👋 Hello! I’m Collins.
-- 👀 I’m a Software Engineer and Data Engineer.
-- 🌱 Proficient in REACT.js, HTML, CSS, Php, Python, SQL, Postgres, Oracle, Apache Nifi
+- 👋 Hey There! I’m Collins.
+- 👀 I’m a Software Engineer / Data Engineer.
+- 🌱 Proficient in REACT.js, HTML, CSS, Php, Python, SQL, DBMS (Postgres, Oracle) Apache Nifi
 
 - 📫 How to reach me by mail: 1muhia.js@gmail.com
 
