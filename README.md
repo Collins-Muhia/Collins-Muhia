@@ -1,5 +1,5 @@
-- 👋 Hey There! I’m Collins.
-- 👀 I’m a Software Engineer / Data Engineer.
+- 👋 Hey There! My name is Collins.
+- 👀 I’m a Software Engineer | Data Engineer | Business Analyst.
 - 🌱 Proficient in REACT.js, HTML, CSS, Php, Python, SQL, DBMS (Postgres, Oracle) Apache Nifi
 
 - 📫 How to reach me by mail: 1muhia.js@gmail.com
